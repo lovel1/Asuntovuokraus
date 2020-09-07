@@ -1,0 +1,25 @@
+body {
+    
+}
+
+.myNav {
+    background-color: rgba(255, 255, 255, 0.8)
+}
+
+.myBut {
+    background-color: rgb(92, 182, 235);
+    background-image: linear-gradient(19deg, rgb(87, 191, 223) 0%, rgb(160, 139, 230) 100%);
+    color: white;
+    border: 0;
+    border-radius: 30px;
+    box-shadow: 5px 10px #353535;
+    
+}
+
+.myBut:hover {
+    background-image: linear-gradient(19deg, rgb(74, 154, 179) 0%, rgb(160, 139, 230) 100%);
+}
+
+.myCont {
+    background-color: rgb(245, 245, 245)
+}
